@@ -1,4 +1,4 @@
-# From Prediction to Mastery: Reality-Aligned Cognitive Diagnosis Networks
+# Reality-Aligned Cognitive Diagnosis Networks for Identifying Concept Mastery (submitted)
 Yupei Zhang, Shuyu Yan
 ## Overview
 > Most neural network-based cognitive diagnosis (CD) models pursue high accuracy in predicting student performance. However, CD models are often employed to figure out the mastery status of knowledge concepts (KC) in exam evaluations. To align CD networks with mastery understanding, this paper introduces RACD, i.e., Reality-Aligned Cognitive Diagnosis networks, which
