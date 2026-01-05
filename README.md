@@ -1,5 +1,5 @@
 # Reality-Aligned Cognitive Diagnosis Networks for Identifying Concept Mastery (submitted)
-Yupei Zhang, Shuyu Yan
+Shuyu Yan, Chenxing Qi, Xuequn Shang, Yupei Zhang*
 ## Overview
 > Most neural network-based cognitive diagnosis (CD) models pursue high accuracy in predicting student performance. However, CD models are often employed to figure out the mastery status of knowledge concepts (KC) in exam evaluations. To align CD networks with mastery understanding, this paper introduces RACD, i.e., Reality-Aligned Cognitive Diagnosis networks, which
 aims to yield the explainable results on student-KC matrix. More specifically, RACD presents three novelties: 1) A self-learning Q*matrix that adaptively refines the alignment between questions and their associated KCs, enhancing robustness to the empirical Q-matrix; 2) A hierarchical mastery constraint that incorporates tree-structured dependencies among KCs, enforcing the learned
